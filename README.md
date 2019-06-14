@@ -1,4 +1,4 @@
-# JavaScript-Text-Summariser-scriptlet
+# JavaScript-Text-Summariser-bookmarklet
 Don't have time to read a lengthy New York Times article? Want to get the gist quickly? This scriptlet summarizes any selected text on a page. The approach is computing a sentence-wise TFIDF from which a sentence importance score is computed. The most important sentences are retained. By changing the strength of summarization you can 'zoom in' and 'zoom out' from the details from the text.
 
 I’ve wanted for a long time a simple text summarizer that you can run on any web page. I made one in JavaScript.
